@@ -1,0 +1,6 @@
+com/shoponline/entity/Product.class
+com/shoponline/model/ProductModel.class
+com/shoponline/model/ProductListModel.class
+com/shoponline/dao/impl/ProductDaoImpl.class
+com/shoponline/entity/DiscountProduct.class
+com/shoponline/dao/ProductDao.class

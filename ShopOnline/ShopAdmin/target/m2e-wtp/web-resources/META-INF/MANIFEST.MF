@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ShopAdmin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: user
+Implementation-Vendor-Id: com.shoponline
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/ShopOnline/S
+ hopAdmin/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
